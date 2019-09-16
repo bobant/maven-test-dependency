@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<BugCollection version='3.0.1' threshold='medium' effort='min'><file classname='com.oreilly.jenkins.MessageSource'><BugInstance type='NP_ALWAYS_NULL' priority='High' category='CORRECTNESS' message='Null pointer dereference of str in com.oreilly.jenkins.MessageSource.thisIsABug()' lineNumber='13'/></file><Error></Error><Project><SrcDir>C:\Users\Training\Desktop\workspace\maven-test-dependency\src\main\java</SrcDir><SrcDir>C:\Users\Training\Desktop\workspace\maven-test-dependency\src\test\java</SrcDir></Project></BugCollection>
