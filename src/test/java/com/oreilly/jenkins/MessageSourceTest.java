@@ -8,7 +8,7 @@ public class MessageSourceTest{
 
 	@Test
 	public void test(){
-		assertTrue(new MessageSource().getMessage().equals("Hi OReilly from the message source."));
+		assertTrue(new MessageSource().getMessage().equals("Hola from the message source."));
 		//fail("Not implemented");
 	}
 }
