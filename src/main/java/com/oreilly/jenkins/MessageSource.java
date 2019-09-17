@@ -2,7 +2,7 @@ package com.oreilly.jenkins;
 
 public class MessageSource {
 
-	private String message = "Hola from the message source.";
+	private String message = "Hi O'Reilly from the message source.";
 
 	public String getMessage() {
 		return message;
